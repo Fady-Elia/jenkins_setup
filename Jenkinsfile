@@ -1,3 +1,4 @@
+@Library ('lab3') _
 pipeline {
      agent any
     parameters {
